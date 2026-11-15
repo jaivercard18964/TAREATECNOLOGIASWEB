@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" width="100%" >
+            </section>
+            <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            <nav>
+                <ul>
+                    <li><a href="../index.html ">INICIO</a></li>
+                    <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+        </header>
+        <main>
+            <article>
+                <section>
+                    <h2>Formulario de Contacto</h2>
+                    <p>Completa el siguiente formulario para enviar tus comentarios o preguntas.</p>
+                    <!-- Formulario de contacto -->
+                    <form action="enviar.php" method="post">
+                        <!-- Campo: Nombre -->
+                        <label for="nombre">Nombre:</label>
+                        <input type="text" id="nombre" name="nombre" required>
+                        <!-- Campo: Correo electrónico -->
+                        <label for="correo">Correo electrónico:</label>
+                        <input type="email" id="correo" name="correo" required>
+                        <!-- Campo: Asunto -->
+                        <label for="asunto">Asunto:</label>
+                        <input type="text" id="asunto" name="asunto" required>
+                        <!-- Campo: Mensaje -->
+                        <label for="mensaje">Mensaje:</label>
+                        <textarea id="mensaje" name="mensaje" rows="5" cols="40" required></textarea>
+                        <!-- Botón de envío -->
+                        <button type="reset">Enviar</button>
+                    </form>
+                </section>
+            </article>
+        </main>
+        <footer>
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Imagen decorativa del pie de página" width="100%" >
+        </footer>
+    </body>
+</html>

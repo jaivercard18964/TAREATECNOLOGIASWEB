@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" width="100%" >
+            </section>
+            <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            <nav>
+                <ul>
+                    <li><a href="../index.html ">INICIO</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+        </header>
+        <main> 
+            <article>
+                <section>
+                    <h2>Impacto en la Sociedad</h2>
+                    <P>Las tecnologías web han redefinido la forma en que las personas se comunican, aprenden y se organizan. Lo que antes requería días de espera o desplazamientos físicos, hoy se resuelve en segundos desde cualquier lugar del mundo. Una madre en una comunidad rural puede acceder a la misma información médica que un paciente en una gran ciudad, un estudiante puede tomar un curso de una universidad extranjera sin salir de su casa, y un trabajador puede colaborar con un equipo distribuido en tres continentes. Esta capacidad de conectar a personas, independientemente de su ubicación, ha sido el cambio más profundo que la web ha generado en la sociedad contemporánea.</P>
+                    <aside>
+                        <img src="../imagenes/cultura_digital.webp" alt="Imagen de la cultura digital" width="50%">
+                        <figcaption>Fuente: seoenmexico.com</figcaption>
+                    </aside>
+                </section> 
+                <section>
+                    <P>Sin embargo, este impacto no ha sido uniforme. Mientras las zonas urbanas y los países desarrollados han adoptado plenamente estas herramientas, millones de personas en regiones rurales y países en desarrollo aún carecen de acceso a internet o a dispositivos adecuados. Esta brecha digital no solo limita el acceso a la información, sino que profundiza las desigualdades económicas y educativas existentes. Además, la exposición constante a contenidos digitales ha generado nuevos retos en términos de salud mental, privacidad y capacidad de discernimiento frente a la desinformación.</P>
+                    <aside>
+                        <img src="../imagenes/Computadoras_por_personas.webp" alt="Imagen de las computadoras por persona a nivel mundial" width="50%">
+                        <figcaption>Fuente: infotecarios.com</figcaption>
+                    </aside>
+                </section>
+                <section>
+                    <h2>Desigualdad en la era digital</h2>
+                    <figure>
+                        <iframe
+                            width="560"
+                            height="315"
+                            src="https://www.youtube.com/embed/3tTfrq3vvH8?si=9vE4MfanNDaegBk3"
+                            title="Desigualdad en la era digital"
+                            allowfullscreen>
+                        </iframe>
+                        <figcaption>Fuente: YouTube</figcaption>
+                    </figure>
+                </section>
+            </article>
+        </main> 
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="../index.html ">INICIO</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Imagen decorativa del pie de página" width="100%" >  
+        </footer>
+</body>
+</html>

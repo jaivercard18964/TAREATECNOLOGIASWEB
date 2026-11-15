@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" width="100%" >
+            </section>
+            <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            <nav>
+                <ul>
+                    <li><a href="../index.html ">INICIO</a></li>
+                    <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+        </header>
+        <main>
+            <section>
+                <h2>Referencias</h2>
+                <ul>
+                    <!--Se hace uso de <strong></strong> y <em></em> -->
+                    <li><strong>Castells, M. (2010).</strong><em> La sociedad red: Una breve historia histórica</em>. Paidós.</li>
+                    <li><strong>Backlinko. (2024).</strong> Ecommerce Statistics: 150+ Stats &amp; Trends. <a href="https://backlinko.com/ecommerce-stats">backlinko.com/ecommerce-stats</a></li>
+                    <li><strong>BusinesStats. (2024).</strong> Retail E-Commerce Sales Growth Worldwide. <a href="https://businesstats.com/retail-ecommerce-sales-growth-worldwide/">businesstats.com</a></li>
+                    <li><strong>McKinsey &amp; Company. (2024).</strong> Rewired and running ahead: Digital and AI leaders are leaving the rest behind. <a href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-and-running-ahead-digital-and-ai-leaders-are-leaving-the-rest-behind">mckinsey.com</a></li>
+                    <li><strong>O'Reilly, T. (2005).</strong> What is Web 2.0. <em>O'Reilly Media</em>. <a href="https://oreilly.com">oreilly.com</a></li>
+                    <li><strong>Simplilearn. (2024).</strong> What is Web 1.0, Web 2.0 and Web 3.0. <a href="https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article">simplilearn.com</a></li>
+                </ul>
+            </section>
+        </main> 
+        <footer>
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Imagen decorativa del pie de página" width="100%" >  
+        </footer>
+</body>
+</html>
