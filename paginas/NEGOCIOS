@@ -1,0 +1,74 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <!--Utilizo el style="widch:100%" por que en la validadcion del W3C me da como error solo "widch:100%"-->
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" style="width:100%">
+                <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            </section>
+            <section>
+                <h2>MENU</h2>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">INICIO</a></li>
+                        <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                        <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                        <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                        <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                        <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </header>
+        <main> 
+            <article>
+                <h2>Impacto en los Negocios</h2>
+                <section>
+                    <h3>Como afectan las tecnologias web a los Negocios ?</h3>
+                    <P>Las tecnologías web han reconfigurado por completo la forma en que las empresas operan, venden y compiten. El comercio electrónico es la evidencia más tangible: las ventas globales de e-commerce minorista alcanzaron los 6.42 billones de dólares en 2025, representando más del 20% del comercio retail mundial, con proyecciones de superar los 7.9 billones para 2028. Empresas como Amazon, Alibaba y MercadoLibre han demostrado que es posible construir imperios comerciales a escala planetaria sin depender de la infraestructura física tradicional. A esto se suma la economía de plataformas, donde Uber, Airbnb y Rappi conectan oferta y demanda mediante algoritmos sin poseer los activos del sector que sirven, creando modelos de negocio que no existían hace apenas dos décadas.</P>                  
+                    <p>Más allá del comercio, la transformación digital se ha convertido en un factor determinante de rentabilidad. Según Deloitte, las organizaciones asignaron en promedio el 13.7% de sus ingresos a iniciativas digitales en 2025, casi el doble que en 2024, y más del 90% de las empresas ya están ejecutando proyectos de transformación. Los resultados son medibles: las organizaciones con estrategias digitales sólidas registran un crecimiento de ingresos un 23% superior al de sus competidores, y las empresas que han integrado inteligencia artificial en sus procesos alcanzan 2.5 veces más crecimiento de ingresos y 2.4 veces mayor productividad según Accenture. La transformación digital ya no es una ventaja competitiva opcional, sino un requisito de supervivencia en un mercado donde el consumidor y el talento operan en un entorno cada vez más digital. </p>
+                    <aside>
+                        <figure>
+                            <img src="../imagenes/Negocios_web.webp" alt="Negocios web" style="width:50%">
+                            <figcaption>Fuente: plotandesign.com</figcaption>
+                        </figure>
+                    </aside>
+                </section> 
+                <section>
+                    <h3>La Importancia de la Tecnología web en las Empresas</h3>
+                    <P>La tecnología web es la infraestructura sobre la que se sostienen hoy prácticamente todas las operaciones de una empresa. Un sitio web corporativo ya no es un folleto digital: es la puerta de entrada al cliente, el canal de ventas, la plataforma de atención al servicio y el repositorio de información que sostiene la marca en un entorno donde el 93% de los consumidores investiga en línea antes de comprar. Las aplicaciones web, las APIs y la computación en la nube permiten que una pyme ofrezca la misma experiencia digital que una multinacional, escalando sus servicios sin inversión en infraestructura física. Según eMarketer, el comercio electrónico representó más del 20% del retail global en 2025 con ventas superiores a los 6.4 billones de dólares, y la mayoría de esas transacciones ocurre a través de plataformas web. A esto se suma la capacidad de las empresas para analizar datos en tiempo real, automatizar procesos mediante herramientas SaaS (Software as a Service) y mantener equipos distribuidos conectados a través de aplicaciones web colaborativas. En la práctica, una empresa sin presencia web sólida y sin integración de herramientas digitales en sus procesos no compite: simplemente no existe para el consumidor moderno.</P>
+                    <figure>
+                        <iframe
+                            width="560"
+                            height="315"
+                            src="https://www.youtube.com/embed/u25nYLn3toE?si=9UR91O36p_fVA8la"
+                            title="¿Cómo beneficia la tecnología a mi negocio?"
+                            allowfullscreen>
+                        </iframe>
+                        <figcaption>Fuente: YouTube</figcaption>
+                    </figure>
+                </section>
+            </article>
+        </main> 
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="../index.html ">INICIO</a></li>
+                    <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Pie de página" style="width:100%" > 
+        </footer>
+</body>
+</html>

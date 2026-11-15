@@ -1,0 +1,120 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <!--Utilizo el style="widch:100%" por que en la validadcion del W3C me da como error solo "widch:100%"-->
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" style="width:100%">
+                <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            </section>
+            <section>
+                <h2>MENU</h2>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">INICIO</a></li>
+                        <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                        <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                        <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                        <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                        <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </header>
+        <main> 
+            <article>
+                <h2>Evolucion de las tecnologias web</h2>
+                <section>
+                    <h3>Como evoluciono la tecnologia web ?</h3>
+                    <P>La web nació en 1989 como un sistema de hipertexto desarrollado por Tim Berners-Lee en el CERN, concebido inicialmente como una herramienta de consulta para científicos. Durante la década de 1990, conocida como la era de la Web 1.0, las páginas eran estáticas: los usuarios leían, pero no interactuaban. El contenido era creado por unos pocos administradores y consumido pasivamente por el resto. Todo cambió a partir de 2004, cuando el término "Web 2.0" se popularizó para describir una nueva etapa en la que los usuarios dejaron de ser solo lectores y pasaron a generar contenido. Surgieron las redes sociales, los blogs, las plataformas de video y el comercio electrónico dinámico. Según Statista, el número de usuarios de internet pasó de 350 millones en 2000 a más de 5,400 millones en 2024, y el tráfico web global creció de 2 exabytes mensuales a más de 1.2 zettabytes anuales, evidenciando una explosión en el volumen de información generada y consumida por los propios usuarios.</P>                  
+                    <p>La transición hacia lo que se conoce como Web 3.0 comenzó a delimitarse a partir de 2020, aunque sus raíces se remontan a la propuesta de la "web semántica" de Berners-Lee en 2001. Esta nueva etapa se caracteriza por tres pilares: la inteligencia artificial generativa, la descentralización mediante blockchain y la capacidad de las máquinas para interpretar el contenido, no solo indexarlo. Según un informe de Gartner, el 33% de las empresas ya había implementado modelos de IA generativa en al menos un proceso de negocio para 2025, y se estima que el mercado de la web descentralizada superará los 200,000 millones de dólares para 2030. La diferencia fundamental con las etapas anteriores es que la Web 3.0 busca devolver al usuario el control sobre sus datos y reducir la dependencia de intermediarios centralizados, aunque su adopción masiva aún está en fase temprana y su impacto real en la sociedad y los negocios sigue siendo objeto de debate.</p>
+                    <aside>
+                        <figure>
+                            <img src="../imagenes/Evolucion.webp" alt="Evolucion web" style="width:50%">
+                            <figcaption>Fuente: pinterest.com</figcaption>
+                        </figure>
+                    </aside>
+                </section> 
+                <section>
+                    <h3>Evolución de la Web</h3>
+                    <p>La web ha pasado por tres grandes etapas...</p>        
+                    <h4>Comparación entre etapas</h4>
+                    <table>
+                        <caption>Comparación entre las etapas de la web</caption>
+                        <thead>
+                            <tr>
+                                <th>Dimensión</th>
+                                <th>Web 1.0 (1990–2000)</th>
+                                <th>Web 2.0 (2000–2020)</th>
+                                <th>Web 3.0 (2020–presente)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Nombre</td>
+                                <td>Web estática</td>
+                                <td>Web social</td>
+                                <td>Web semántica / descentralizada</td>
+                            </tr>
+                            <tr>
+                                <td>Rol del usuario</td>
+                                <td>Consumidor pasivo</td>
+                                <td>Generador de contenido</td>
+                                <td>Dueño de sus datos</td>
+                            </tr>
+                            <tr>
+                                <td>Tecnología clave</td>
+                                <td>HTML, HTTP</td>
+                                <td>JavaScript, APIs, AJAX</td>
+                                <td>Blockchain, IA, semántica</td>
+                            </tr>
+                            <tr>
+                                <td>Ejemplos</td>
+                                <td>Yahoo!, sitios corporativos</td>
+                                <td>Facebook, YouTube, Amazon</td>
+                                <td>Ethereum, IA generativa, web3</td>
+                            </tr>
+                            <tr>
+                                <td>Contenido</td>
+                                <td>Fijo, de solo lectura</td>
+                                <td>Dinámico, interactivo</td>
+                                <td>Inteligente, contextual</td>
+                            </tr>
+                            <tr>
+                                <td>Impacto en negocios</td>
+                                <td>Visibilidad online</td>
+                                <td>Monetización de datos</td>
+                                <td>Desintermediación</td>
+                            </tr>
+                            <tr>
+                                <td>Usuarios (aprox.)</td>
+                                <td>350 millones (2000)</td>
+                                <td>5,400 millones (2024)</td>
+                                <td>En crecimiento</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+            </article>
+        </main> 
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="../index.html">INICIO</a></li>
+                    <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/DESAFIOS">DESAFIOS</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Pie de página" style="width:100%" > 
+        </footer>
+</body>
+</html>
