@@ -31,13 +31,32 @@
             <section>
                 <h2>Referencias</h2>
                 <ul>
-                    <!--Se hace uso de <strong></strong> y <em></em> -->
-                    <li><strong>Castells, M. (2010).</strong><em> La sociedad red: Una breve historia histórica</em>. Paidós.</li>
-                    <li><strong>Backlinko. (2024).</strong> Ecommerce Statistics: 150+ Stats &amp; Trends. <a href="https://backlinko.com/ecommerce-stats">backlinko.com/ecommerce-stats</a></li>
-                    <li><strong>BusinesStats. (2024).</strong> Retail E-Commerce Sales Growth Worldwide. <a href="https://businesstats.com/retail-ecommerce-sales-growth-worldwide/">businesstats.com</a></li>
-                    <li><strong>McKinsey &amp; Company. (2024).</strong> Rewired and running ahead: Digital and AI leaders are leaving the rest behind. <a href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-and-running-ahead-digital-and-ai-leaders-are-leaving-the-rest-behind">mckinsey.com</a></li>
-                    <li><strong>O'Reilly, T. (2005).</strong> What is Web 2.0. <em>O'Reilly Media</em>. <a href="https://oreilly.com">oreilly.com</a></li>
-                    <li><strong>Simplilearn. (2024).</strong> What is Web 1.0, Web 2.0 and Web 3.0. <a href="https://www.simplilearn.com/what-is-web-1-0-web-2-0-and-web-3-0-with-their-difference-article">simplilearn.com</a></li>
+                    <li><strong>Accenture. (2025). </strong><em>AI-led processes and business performance</em>. <a href="https://www.accenture.com">accenture.com</a></li>
+                    <li><strong>Backlinko. (2024). </strong><em>Ecommerce Statistics: 150+ Stats &amp; Trends</em>. <a href="https://backlinko.com/ecommerce-stats">backlinko.com/ecommerce-stats</a></li>
+                    <li><strong>Berners-Lee, T. (2001). </strong><em>Semantic Web</em>. <a href="https://timbl.com">timbl.com</a></li>
+                    <li><strong>BLS. (2025). </strong><em>Occupational Outlook Handbook: Information Security Analysts</em>. <a href="https://www.bls.gov">bls.gov</a></li>
+                    <li><strong>BusinesStats. (2024). </strong><em>Retail E-Commerce Sales Growth Worldwide</em>. <a href="https://businesstats.com">businesstats.com</a></li>
+                    <li><strong>Castells, M. (2010). </strong><em>La sociedad red: Una breve historia histórica</em>. Paidós.</li>
+                    <li><strong>CyberSN. (2026). </strong><em>Cybersecurity Jobs Report</em>. <a href="https://cybersn.com">cybersn.com</a></li>
+                    <li><strong>DataReportal. (2025). </strong><em>Digital 2025: Global Overview Report</em>. <a href="https://datareportal.com">datareportal.com</a></li>
+                    <li><strong>Deloitte. (2025). </strong><em>Digital Transformation Survey 2025</em>. <a href="https://www.deloitte.com">deloitte.com</a></li>
+                    <li><strong>eMarketer. (2025). </strong><em>Ecommerce to account for more than 20% of worldwide retail sales</em>. <a href="https://www.emarketer.com">emarketer.com</a></li>
+                    <li><strong>Gartner. (2025). </strong><em>Hype Cycle for Artificial Intelligence</em>. <a href="https://www.gartner.com">gartner.com</a></li>
+                    <li><strong>GSMA Intelligence. (2025). </strong><em>Conectividad y PIB mundial 2030</em>. <a href="https://www.gsma.com">gsma.com</a></li>
+                    <li><strong>IDC. (2025). </strong><em>Decentralized Web Market Forecast</em>. <a href="https://www.idc.com">idc.com</a></li>
+                    <li><strong>IDC. (2025). </strong><em>Inversión tecnológica y productividad empresarial</em>. <a href="https://www.idc.com">idc.com</a></li>
+                    <li><strong>INE. (2026). </strong><em>Encuesta sobre Equipamiento y Uso de TIC en los Hogares, 2026</em>. <a href="https://www.ine.es">ine.es</a></li>
+                    <li><strong>INEGI. (2026). </strong><em>ENDUTIH 2025</em>. <a href="https://www.inegi.org.mx">inegi.org.mx</a></li>
+                    <li><strong>ISC2. (2025). </strong><em>Cybersecurity Workforce Study 2025</em>. <a href="https://www.isc2.org">isc2.org</a></li>
+                    <li><strong>KPMG. (2026). </strong><em>Global Tech Report 2026</em>. <a href="https://kpmg.com">kpmg.com</a></li>
+                    <li><strong>McKinsey &amp; Company. (2025). </strong><em>The State of AI in 2025</em>. <a href="https://www.mckinsey.com">mckinsey.com</a></li>
+                    <li><strong>OCDE. (2025). </strong><em>Comercio digital</em>. <a href="https://www.oecd.org">oecd.org</a></li>
+                    <li><strong>O'Reilly, T. (2005). </strong><em>What is Web 2.0</em>. O'Reilly Media. <a href="https://www.oreilly.com">oreilly.com</a></li>
+                    <li><strong>Shopify. (2026). </strong><em>Global Ecommerce Sales Growth Report</em>. <a href="https://www.shopify.com">shopify.com</a></li>
+                    <li><strong>Simplilearn. (2024). </strong><em>What is Web 1.0, Web 2.0 and Web 3.0</em>. <a href="https://www.simplilearn.com">simplilearn.com</a></li>
+                    <li><strong>Statista. (2024). </strong><em>Number of internet users worldwide</em>. <a href="https://www.statista.com">statista.com</a></li>
+                    <li><strong>World Economic Forum. (2025). </strong><em>Global Risks Report 2025</em>. <a href="https://www.weforum.org">weforum.org</a></li>
+                    <li><strong>World Economic Forum. (2026). </strong><em>Global Cybersecurity Outlook 2026</em>. <a href="https://www.weforum.org">weforum.org</a></li>
                 </ul>
             </section>
         </main> 

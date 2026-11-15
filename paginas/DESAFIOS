@@ -1,0 +1,76 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>El motor de la era digital</title>
+    </head>
+    <body>
+        <header>
+            <section>
+                <!--Utilizo el style="widch:100%" por que en la validadcion del W3C me da como error solo "widch:100%"-->
+                <img src="../imagenes/banner_.jpg" alt="Banner sitio web" style="width:100%">
+                <h1>El Impacto de las Tecnologías Web en la Sociedad y los Negocios </h1>
+            </section>
+            <section>
+                <h2>MENU</h2>
+                <nav>
+                    <ul>
+                        <li><a href="../index.html">INICIO</a></li>
+                        <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                        <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                        <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                        <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                        <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                    </ul>
+                </nav>
+            </section>
+        </header>
+        <main> 
+            <article>
+                <h2>Desafios de la tecnologia web en la actualidad</h2>
+                <section>
+                    <h3>Cuales son los pricipales desafios de la tecnologia web en la actualidad ?</h3>
+                    <ol>
+                        <li><strong>Ciberseguridad:</strong> Las estafas impulsadas por IA aumentaron un 1200% en 2025 y se identificaron más de 8,000 brechas de datos a nivel mundial. La escasez de profesionales en ciberseguridad supera los 2.8 millones a nivel global.</li>
+                        <li><strong>Brecha digital:</strong> Aún hay 2,600 millones de personas sin acceso a internet. En países de bajos ingresos solo el 27% está conectado, frente al 93% de los países de altos ingresos.</li>
+                        <li><strong>Desinformación:</strong> La proliferación de deepfakes, bots y contenido sintético generado por IA hace cada vez más difícil distinguir información veraz de manipulación. El WEF la clasifica como el segundo riesgo global más grave.</li>
+                        <li><strong>Privacidad de datos:</strong> La recopilación masiva de datos personales expone a los usuarios a filtraciones y vigilancia. Regulaciones como el GDPR intentan protegerlos, pero su aplicación es desigual a nivel global.</li>
+                        <li><strong>Dependencia tecnológica:</strong> La sociedad depende de la infraestructura digital para servicios críticos (bancos, salud, transporte). Una caída de servidores o un ciberataque puede paralizar sistemas enteros.</li>
+                        <li><strong>Impacto laboral:</strong> La automatización y la IA están eliminando puestos tradicionales más rápido de lo que crean nuevos, generando una transición que no todos los trabajadores pueden absorber sin capacitación.</li>
+                    </ol>
+                    <P>El principal desafío de la tecnología web en la actualidad es la ciberseguridad. Según el World Economic Forum (2026), el 87% de las organizaciones identificó las vulnerabilidades relacionadas con la inteligencia artificial como el riesgo cibernético de más rápido crecimiento durante 2025, y las estafas impulsadas por IA aumentaron un 1200% en ese mismo año. En la primera mitad de 2025 se identificaron más de 8,000 brechas de datos a nivel mundial, con aproximadamente 345 millones de registros expuestos. A esto se suma la escasez de talento: se estima una falta global de entre 2.8 y 4.8 millones de profesionales de ciberseguridad, y el 60% de las brechas de 2025 involucraron factores humanos. El ciberfraude desplazó al ransomware como la mayor preocupación de los CEOs a nivel global, con un 73% de encuestados reportando haber sido afectados directamente.</P>                  
+                    <p>El segundo gran desafío es la brecha digital y la desinformación. Aunque la conectividad ha crecido de forma exponencial, aún hay 2,600 millones de personas sin acceso a internet, y en países de bajos ingresos solo el 27% de la población está conectada, frente al 93% de los países de altos ingresos. Esta desigualdad no es solo de acceso, sino también de capacidad: la adopción de IA y herramientas digitales profundiza la distancia entre quienes pueden aprovecharlas y quienes quedan atrás. Paralelamente, la desinformación se mantiene como el segundo riesgo global más grave según el WEF, alimentada por deepfakes, bots y contenido sintético generado por IA que hace cada vez más difícil distinguir entre información veraz y manipulación. La combinación de ambos factores —desigualdad en el acceso y pérdida de confianza en la información digital— representa uno de los retos estructurales más serios de la era web.</p>
+                </section> 
+                <section>
+                    <h3>Importancia de la ciberseguridad</h3>
+                    <P>La ciberseguridad se ha consolidado como uno de los pilares estratégicos de la economía digital y, simultáneamente, como uno de los sectores con mayor desequilibrio entre oferta y demanda de talento. Según el estudio de fuerza laboral de ISC2 (2025), la brecha global de profesionales en ciberseguridad alcanzó los 4.8 millones de posiciones sin cubrir, frente a una fuerza laboral activa de apenas 5.5 millones, lo que significa que el sector necesitaría crecer un 87% para satisfacer la demanda actual.  El 95% de las organizaciones reporta al menos una necesidad de competencias en ciberseguridad, y solo el 14% afirma contar con el talento especializado que requiere, según el World Economic Forum (2025). En América Latina, la situación es particularmente crítica: hay 328,397 vacantes sin cubrir, y en México la brecha alcanza los 77,000 especialistas, cuando el país cuenta con apenas 6,000 profesionales capacitados. Lo que está ocurriendo en 2026 es un cambio de estructura: las ofertas de empleo tradicionales en ciberseguridad cayeron un 26% en Estados Unidos, pero las vacantes para ingenieros de seguridad de IA crecieron un 268%, lo que indica que el mercado no está encogiendo, sino reconfigurándose alrededor de nuevas competencias. La ciberseguridad ya no es solo un área de soporte técnico: es una función estratégica que determina la resiliencia de las empresas, la confianza de los consumidores y la estabilidad de los servicios públicos.</P>
+                    <figure>
+                        <iframe
+                            width="560"
+                            height="315"
+                            src="https://www.youtube.com/embed/HrRiRXtJJVo?si=ofoAHgZrIqX-8Flh"
+                            title="Importancia de la ciberseguridad"
+                            allowfullscreen>
+                        </iframe>
+                        <figcaption>Fuente: YouTube</figcaption>
+                    </figure>
+                </section>
+            </article>
+        </main> 
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="../index.html">INICIO</a></li>
+                    <li><a href="../paginas/SOCIEDAD">IMPACTO EN LA SOCIEDAD</a></li>
+                    <li><a href="../paginas/NEGOCIOS">IMPACTO EN LOS NEGOCIOS</a></li>
+                    <li><a href="../paginas/EVOLUCION">EVOLUCION</a></li>
+                    <li><a href="../paginas/CONTACTO">CONTACTOS</a></li>
+                    <li><a href="../paginas/REFERENCIAS">REFERENCIAS</a></li>
+                </ul>
+            </nav> 
+            <p>&copy; 2026 – Proyecto de Tecnologías Web</p>
+            <img src="../imagenes/pie_de_pagina_.jpg" alt="Pie de página" style="width:100%" > 
+        </footer>
+</body>
+</html>
